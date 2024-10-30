@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-16 10:18+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-atl-sub-page.php:13
+msgid "Child page by Atlas"
+msgstr ""
+
+#: wp-atl-sub-page.php:14
+msgid "Creating widget for views child page"
+msgstr ""
+
+#: wp-atl-sub-page.php:29
+msgid "Child pages"
+msgstr ""
+
+#: wp-atl-sub-page.php:30
+msgid "Widget fot view child pages"
+msgstr ""
+
+#: wp-atl-sub-page.php:37 wp-atl-sub-page.php:98
+msgid "Catalog"
+msgstr ""
+
+#: wp-atl-sub-page.php:40
+msgid "Header"
+msgstr ""
+
+#: wp-atl-sub-page.php:44
+msgid "Select page"
+msgstr ""
+
+#: wp-atl-sub-page.php:89
+msgid "Not found child page"
+msgstr ""
